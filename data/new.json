@@ -1,0 +1,778 @@
+[
+  {
+    "_id": {
+      "$oid": "619bc0d8eab099fd38ea5c7e"
+    },
+    "ten_sp": "Notebook: Leopard Print Composition Notebook - College Ruled 110 Pages - Large 8.5 x 11",
+    "so_luong": {
+      "$numberInt": "33"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1639267200000"
+      }
+    },
+    "mo_ta": "The minimal and well-designed composition notebook perfect for writing notes and jotting down thoughts.\nCheck out a sample of the notebook by clicking on the \"Look inside\" feature.\n\nSpecifications:\n\nLayout: College Ruled Lined - 7.1mm\nSize: 8.5\" x 11\" - US Letter Size\nPaper: white paper - 60lb / 90 GSM\nPages: 110 pages / 55 sheets\nCover: Soft, matte paperback cover\nPerfect Binding\nMade in the USA\nPerfect for gel pen, ink or pencil\nMakes a great Christmas, Birthday, Graduation or Beginning of the school year gift\nPlease visit our author's page on Amazon for more colors and patterns.",
+    "don_gia_nhap": {
+      "$numberInt": "5"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "4"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "3"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa41"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa33"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa27"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#4FAAD1", "#EBBF00", "#45498C"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb4"
+    },
+    "hinh_anh": "https://i.ibb.co/cLQ8sP3/images-1.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "619bc0dfeab099fd38ea5c80"
+    },
+    "ten_sp": "Notebook: Cute Colorful Cats College Ruled Lined Pages (Composition Book, Journal) (8.5 x 11 Large) Paperback",
+    "so_luong": {
+      "$numberInt": "34"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1639267200000"
+      }
+    },
+    "mo_ta": "This cat notebook features cute & colorful cats on the cover. There is ample room inside for writing notes and ideas. It can be used as a notebook, journal or composition book. This paperback notebook is 8.5\" x 11\" (letter size) and has 108 pages (54 sheets) that are college ruled.",
+    "don_gia_nhap": {
+      "$numberInt": "5"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "4"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "3"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa41"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa33"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa27"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#EAD1F0", "#FCE8F8", "#FFFFEB"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb4"
+    },
+    "hinh_anh": "https://i.ibb.co/DgtCdDP/18-Colors-Marker-Pens-Acrylic-Pencils-Marker-Set-Acrylic-Paints-For-DIY-Painting-0-7mm-Drawing-jpg-Q.jpg"
+  }, {
+    "_id": {
+      "$oid": "619c364e1186ac6530980972"
+    },
+    "ten_sp": "Amazon Basics Wide Ruled Composition Notebook, 100 Sheets, Marble Black, 12-Pack",
+    "so_luong": {
+      "$numberInt": "34"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1639267200000"
+      }
+    },
+    "mo_ta": "Composition notebook with 100 sheets of paper (56 gsm weight paper stock; 92% brightness); 12-pack of marble black\nWide-ruled format (11/32-inch) promotes neat, even lines of legible writing\nSturdy front and back covers (20 pt. white cardstock) protect the paper and double as a firm surface for writing against\nPrinted quick-reference info on inside covers (schedule table and standard weight and measurement conversion chart)\nSewn binding keeps pages securely attached; paper measures 9.8 by 7.5 inches",
+    "don_gia_nhap": {
+      "$numberInt": "27"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "30"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "29"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa3f"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa33"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa27"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb3"
+    },
+    "mau_sac": ["#FAEED9", "#B9E2EB"],
+    "hinh_anh": "https://i.ibb.co/tJR9f5q/img-0779.jpg"
+  }, {
+    "_id": {
+      "$oid": "619c45731186ac6530980ab4"
+    },
+    "ten_sp": "6-pack of writing pads; 50 sheets of paper per pad; ideal for everyday lists, notes, and more\n2 of each color (pink, orchid, and blue) for a nice appearance and optional color coding\nNarrow jr. legal ruled (9/32-inch spacing); also includes title space and a left-side margin\nSturdy chipboard back cover doubles as a hard writing surface; micro perforated sheets detach easily\nMeasures 5 by 8 inches",
+    "so_luong": {
+      "$numberInt": "2222"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1635811200000"
+      }
+    },
+    "mo_ta": "Large classic notebook with 240 line-ruled pages (front and back) for notes, lists, journaling, and more\nArchival-quality pages made from acid-free paper—resists damage from light and air\nBlack, cardboard bound cover with rounded corners; expandable inner pocket for stashing loose items\nIntegrated bookmark; elastic closure helps keep notebook securely closed\nNotebook measures 5 x 8.25 x .6 inches (WxLxD)",
+    "don_gia_nhap": {
+      "$numberInt": "10"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "15"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "11"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa41"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa34"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa2a"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#403C3B", "#FFC874", "#F9B127", "#D16325", "#A81F1F"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb5"
+    },
+    "hinh_anh": "https://i.ibb.co/2qV5kZH/71-Wq-FX-4-Qj-L.jpg"
+  }, {
+    "_id": {
+      "$oid": "619e0054700fce45da586ad6"
+    },
+    "ten_sp": "Amazon Basics Writing Pads, 5\" x 8\", Narrow Ruled, Pink, Orchid & Blue Paper, 6-Pack",
+    "so_luong": {
+      "$numberInt": "22"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1636329600000"
+      }
+    },
+    "mo_ta": "6-pack of writing pads; 50 sheets of paper per pad; ideal for everyday lists, notes, and more\n2 of each color (pink, orchid, and blue) for a nice appearance and optional color coding\nNarrow jr. legal ruled (9/32-inch spacing); also includes title space and a left-side margin\nSturdy chipboard back cover doubles as a hard writing surface; micro perforated sheets detach easily\nMeasures 5 by 8 inches",
+    "don_gia_nhap": {
+      "$numberInt": "23"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "30"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "30"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa39"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa2a"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#39AEC3", "#B7D9B2", "#FEF2B0", "#F279A6", "#285379"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb5"
+    },
+    "hinh_anh": "https://i.ibb.co/NVzbBC2/download-1.jpg"
+  }, {
+    "_id": {
+      "$oid": "619e014f700fce45da586af0"
+    },
+    "ten_sp": "Moleskine Classic Notebook, Hard Cover, Large (5\" x 8.25\") Ruled/Lined, Black, 240 Pages",
+    "so_luong": {
+      "$numberInt": "23"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1636502400000"
+      }
+    },
+    "mo_ta": "CLASSIC MOLESKINE NOTEBOOK: Moleskine classic notebooks are perfect notebooks for writing journals, a daily diary, or note taking in college classes or meetings. Moleskine notebooks are beloved by travelers & bullet journalists for their slim design.\nDURABLE COVER & ELASTIC CLOSURE: Hold writing projects & notes in your Moleskine notebook with an elastic closure band & inner storage folders. Leather-like classic Moleskine cover & thick, ivory paper pages are perfect for writing with fountain pens.\nGIFT QUALITY NOTEBOOKS: Moleskine planners, journals and notebooks come in hardcover or softcover and colors like black, red, blue, green and brown. The binding and cover have a durable finish, designed for daily journaling, writing and sketching.\nDELUXE QUALITY PAGES: Moleskine's thick, ivory paper pages in a hardcover Moleskine notebook, softcover Moleskine notebook, cahier or volant journal, or Moleskine planner are perfectly textured for writing with a ballpoint pen, fountain pen, or pencil.\nMOLESKINE QUALITY: We're dedicated to culture, travel, memory, imagination, & personal identity—both physical & digital. We bring this commitment to our notebooks, bags, apps & smart pens & notebooks.",
+    "don_gia_nhap": {
+      "$numberInt": "23"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "30"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "30"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa41"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa38"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa2a"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#FFC89E", "#A9D3C9"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb6"
+    },
+    "hinh_anh": "https://i.ibb.co/YkFT661/images-2.jpg"
+  }, {
+    "_id": {
+      "$oid": "619ee31661919554aa53050c"
+    },
+    "ten_sp": "Thien Long pen",
+    "so_luong": {
+      "$numberInt": "123"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1637712000000"
+      }
+    },
+    "mo_ta": "Anti-scratch Tip Stylus Pens - the touch screen stylus have the exquisite soft rubber tip, which is suitable for capacitive touch screen and it can protect your screen from scratching and keep no fingerprints\n2 In 1 Design Sensitive Stylus - 2 different sizes rubber tips in both sides of the pen, which give you 2 options to use, provides smooth drawing and senstivity writing experience on touch screens, convenient for click and browse on your screen devices\nIdeal Gift For Family and Friends - Get 2 of colorful stylus with an unbeatable price would be the ideal Christmas/birthday/back to school/office gift for family or friends\nUniversal Capacitive Stylus - Compatible with all capacitive touch screen devices, including iPad, iPad Pro, iPhone, Android tablets & smart phones, Samsung galaxy and so on\nReplaceable Rubber Tips - These stylus pens both two ends rubber tips are replaceable. Replacing can be done within seconds without tool. 8 extra replacement fiber tips included (4 small rubber tips and 4 large one), effectively extend lifetime of the stylus",
+    "don_gia_nhap": {
+      "$numberInt": "4"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "5"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "5"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa41"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa35"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa28"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#9A97CF", "#DF9AB3", "#FFC89E"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb6"
+    },
+    "hinh_anh": "https://i.ibb.co/k2kbGLy/e5ecc234e84563739ce736a4facb82ccf54e3155-original.jpg"
+  }, {
+    "_id": {
+      "$oid": "619ee45e61919554aa53051b"
+    },
+    "ten_sp": "Simperie S1 - Smoke Pink",
+    "so_luong": {
+      "$numberInt": "12"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1636416000000"
+      }
+    },
+    "mo_ta": "Bìa màu khói, giả da. Chữ 𝗦𝗜𝗠𝗣𝗘𝗥𝗜𝗘 𝗦𝟭 được ép lún.\nRuột sổ được đánh số trang từ 1-200.\nChất giấy kem 100gsm mịn màng và có độ trắng kem vừa phải.\nTất cả đều được bỏ hộp. Trên hộp có chữ 𝗦𝗜𝗠𝗣𝗘𝗥𝗜𝗘 𝗦𝟭 trên hộp được ép kim màu vàng đồng mờ, điểm nhấn là lỗ tròn nhìn được màu sổ bên trong.\nCó túi giấy synthetic dai và không bị dơ phía sau, tặng kèm tờ HABITS TRACKER",
+    "don_gia_nhap": {
+      "$numberInt": "11"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "17"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "15"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa35"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa2b"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#DEE6C8", "#A8D0C6", ""],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb6"
+    },
+    "hinh_anh": "https://i.ibb.co/416grmr/download.jpg"
+  }, {
+    "_id": {
+      "$oid": "619f35b6f1611025e785f08c"
+    },
+    "ten_sp": "EOOUT 3 Pack Spiral Notebook Hardcover Spiral Journal, 5.5\"x8.3\" 80 Sheets College Ruled, Quicksand Pattern for School Office Home",
+    "so_luong": {
+      "$numberInt": "12"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1635984000000"
+      }
+    },
+    "mo_ta": "Package includes: 3 abstract quicksand spiral notebooks, single-sided printing.\nCover: Brightly colored abstract quicksand is used as the main body of the design. The font of the notebook is bronzing. The cover is made with thick cardboard and high-end materials, which can not only protect the inner pages but also waterproof. The edges are designed with more humane rounded corners.\nPages: The size 5.5x8.3 inches/14x21cm is portable, and 80 quality sheets are used to avoid ink spreading and leakage.\nBinding: Firm twin coils are used for binding to easily open and close the notebooks. They can be placed horizontally after being opened and elastic cords are used to fix some inserts and documents.\nApplications: The notebooks can be applied to studying, work recording, creative writing, graffiti, painting, and diary. As an ideal choice for offices, schools, and households, it’s a perfect gift for friends, families, classmates, and workmates as well.\n",
+    "don_gia_nhap": {
+      "$numberInt": "12"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "15"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "15"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa34"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa2a"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#5688C2", "#F7D9EE", "#FFF4D9"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb6"
+    },
+    "hinh_anh": "https://i.ibb.co/6NY0NmR/images-1.jpg"
+  }, {
+    "_id": {
+      "$oid": "619f3713f1611025e785f0fa"
+    },
+    "ten_sp": "Rhodiarama Lined 6 X 8 1/4 Yellow Softcover Journal",
+    "so_luong": {
+      "$numberInt": "19"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1637798400000"
+      }
+    },
+    "mo_ta": "PREMIUM PAPER - 90g smooth ivory sheets, acid-free, pH neutral. French Milled. Inks won't bleed or feather.\nEXPERTLY CONSTRUCTED - Italian faux leather hardcover, glued spine, rounded corners.\nHIGHLY FUNCTIONAL - Includes inner pocket, ribbon page marker and elastic closure to keep papers secure.\nTHREE SIZES: 4 x 5.5\" has 72 sheets (144 pages); 6 x 8.25\" (A5) and 7.5 x 9.75\" has 80 sheets (160 pages).",
+    "don_gia_nhap": {
+      "$numberInt": "20"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "30"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "30"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa35"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa28"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#889C56", "#5688C2"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb6"
+    },
+    "hinh_anh": "https://i.ibb.co/GT4bRk7/download-3.jpg"
+  }, {
+    "_id": {
+      "$oid": "619f3819f1611025e785f120"
+    },
+    "ten_sp": "Rocutus 6 Pack Colorful Spiral Notebook,Student Study Book Spiral Notebook Office Simple Working Book Diary Notebook,8.3 x 5.5 inch Office Product",
+    "so_luong": {
+      "$numberInt": "18"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1637193600000"
+      }
+    },
+    "mo_ta": "Not only for artists and writers, but the soft cover spiral notebooks also can be used as bullet journals or travelogues, they are easy to be taken with you wherever you go.Great Spiral Notebook Student Small Study Book Spiral Notebook Office Simple Working Book Diary Notebook.",
+    "don_gia_nhap": {
+      "$numberInt": "20"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "25"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "23"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa34"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa29"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#FFDFD3", "#F4CF80", "#E8AD76"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb6"
+    },
+    "hinh_anh": "https://i.ibb.co/6BCMSdR/images-2.jpg"
+  }, {
+    "_id": {
+      "$oid": "619f39d6f1611025e785f18a"
+    },
+    "ten_sp": "Ban.do Rough Draft Mini Spiral Notebook with Saying, One Day at a Time",
+    "so_luong": {
+      "$numberInt": "10"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1637798400000"
+      }
+    },
+    "mo_ta": "Includes 160 Lined Pages : Hardcover notebook includes 160 lined pages for all those thoughts, ideas, to do lists, field notes, and feelings you want to get out of your brain. Each page has a perforated edge that lets you rip the pages out easily to show off your doodles and thoughts\nDurable Spiral Design : Notebook is bound by metal wire to provide added durability as you travel from point A to point B. The spiral bound notebook also has a thick hardcover that features the encouraging saying, \"One Day at a Time\"\nEasy Organization : Each page of this lined notebook has the ban.do logo and a space for the date, which makes it perfect to use as a meeting notebook or travel notebook to document important days. Includes a double sided pocket page for storing loose items (and makes desk organization a breeeeze)\nBonus Features : Small notepad has metal spirals, a pocket page, and an adorable centerfold that helps break up the mundane. You'll never want to be without one of these spiral notebooks again. And why should you? You're gonna need a place to jot down all of those brilliant ideas!\nMini Sized : Spiral notebook measures 9 inches (22.9 cm) long x 7 inches (17.8 cm) wide. This small journal is the perfect size to throw in your purse, because sometimes you get a really good idea and there's normally nowhere to write it down. This cute little notebook will make sure that never happens again!",
+    "don_gia_nhap": {
+      "$numberInt": "20"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "25"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "23"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa34"
+    },
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa29"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "mau_sac": ["#E0BBE4", "#957DAD", "#D291BC", "#FEC8D8", "#FFDFD3"],
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb6"
+    },
+    "hinh_anh": "https://i.ibb.co/KV88j5t/download-2.jpg"
+  }, {
+    "_id": {
+      "$oid": "61d6c7fddae628f8669dd258"
+    },
+    "ten_sp": "'Our Story Begins' Planetary Collection Notebook",
+    "so_luong": {
+      "$numberInt": "23"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1641427200000"
+      }
+    },
+    "mo_ta": "'Our Story Begins' notebooks offer a unique notebook experience with beautiful artwork spanning across the pages. The hard outer cover makes them perfect for taking on the go and the pages offer an ounce of inspiration to get pen to paper.",
+    "don_gia_nhap": {
+      "$numberInt": "19"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "25"
+    },
+    "gia_ban_hien_tai": {
+      "$numberInt": "23"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa35"
+    },
+    "mau_sac": ["#b45050", "#fd81dc"],
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa29"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb3"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "hinh_anh": "https://i.ibb.co/S5ypdYn/images-3.jpg"
+  }, {
+    "_id": {
+      "$oid": "61d7bd3eae20309fc5cb324f"
+    },
+    "ten_sp": "Awesome Norway Beautiful Landscape Scenery Spiral Notebook - Ruled Line",
+    "so_luong": {
+      "$numberInt": "45"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1641513600000"
+      }
+    },
+    "mo_ta": "★ TAKE ANYWHERE: The 7”x5” size sketch book can be easily carried with you. These old fashioned leather-bound sketchbooks fit in most purses, backpacks, and totes. The leather strap keeps your personal planner closed. Perfect for writers, travelers and journalers traveling on the go. Our journal for men & women comes in a beautiful gift box.",
+    "don_gia_nhap": {
+      "$numberDouble": "10.06"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "15"
+    },
+    "gia_ban_hien_tai": {
+      "$numberDouble": "13.43"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa36"
+    },
+    "mau_sac": ["#FF6600, #FF0000"],
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa29"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb3"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "hinh_anh": "https://i.ibb.co/7SN12kd/images.jpg"
+  }, {
+    "_id": {
+      "$oid": "61d7bd43ae20309fc5cb325b"
+    },
+    "ten_sp": "Leather Journal for Women - Beautiful Handmade Full Grain Leather Bound Notebook with Embossed Heart Cover - for Daily Drawing, Writing and Sketching - Perfect Size for Travel or Journaling on the Go",
+    "so_luong": {
+      "$numberInt": "12"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1641513600000"
+      }
+    },
+    "mo_ta": "★ WRITE IN STYLE: This vintage handcrafted journal is made from 100% hard wearing FULL GRAIN BUFFALO LEATHER. Oozing rustic charm, as well as that gorgeous leather smell, the antique looking style gives it an old-world feel to help inspire your writing",
+    "don_gia_nhap": {
+      "$numberDouble": "29.55"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "28"
+    },
+    "gia_ban_hien_tai": {
+      "$numberDouble": "32.45"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa33"
+    },
+    "mau_sac": ["#996633"],
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa28"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb3"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "hinh_anh": "https://i.ibb.co/MVP5kvk/images-4.jpg"
+  }, {
+    "_id": {
+      "$oid": "61d7bd3fae20309fc5cb3253"
+    },
+    "ten_sp": "A5 lined notebook | notepad | journal | ruled pages | gold foil | luxury | quality premium stationery | LSW London",
+    "so_luong": {
+      "$numberInt": "13"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1641513600000"
+      }
+    },
+    "mo_ta": "★ THE PERFECT GIFT FOR WOMEN WRITERS: Draw, write and sketch to your heart’s content on the 120 off-white blank unlined sheets (or 240 pages). Our dark brown leatherbound notebooks make heartwarming birthday, anniversary, valentine's day, graduation, engagement or wedding gifts. ★ AS SEEN ON TV - THIS JOURNAL WAS USED IN THE FILMING OF 'JOLENE' ON DOLLY PARTON'S HEARTSTRINGS!",
+    "don_gia_nhap": {
+      "$numberDouble": "20.11"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "25"
+    },
+    "gia_ban_hien_tai": {
+      "$numberDouble": "23.55"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa3f"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa34"
+    },
+    "mau_sac": ["#0066CC, #0033CC"],
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa28"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb4"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "hinh_anh": "https://i.ibb.co/bgYKVZs/so-giay-ve-sketch-book-45167-2.jpg"
+  }, {
+    "_id": {
+      "$oid": "61d7bd40ae20309fc5cb3259"
+    },
+    "ten_sp": "Spa Gift Spiral Notebook - Ruled Line",
+    "so_luong": {
+      "$numberInt": "35"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1641513600000"
+      }
+    },
+    "mo_ta": "★ THERE’S NO RISK TO YOU: In the unlikely event you don’t absolutely love your sketchbook, you have up to a year to ask for a full refund or free replacement. Plus for every purchase made, Moonster gives 5% of it's net profits to 5 charities on 5 continents (India, Bolivia, Zambia, USA and UK). What’s not to love about that?!",
+    "don_gia_nhap": {
+      "$numberDouble": "34.55"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "39"
+    },
+    "gia_ban_hien_tai": {
+      "$numberDouble": "37.25"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa45"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa38"
+    },
+    "mau_sac": ["#669900, #99CC00, #666633"],
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa2a"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb3"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "hinh_anh": "https://i.ibb.co/vhbM99Y/images-5.jpg"
+  }, {
+    "_id": {
+      "$oid": "61d7bd40ae20309fc5cb3255"
+    },
+    "ten_sp": "Awesome Italy Beautiful Landscape Scenery Spiral Notebook - Ruled Line",
+    "so_luong": {
+      "$numberInt": "43"
+    },
+    "ngay_nhap": {
+      "$date": {
+        "$numberLong": "1641513600000"
+      }
+    },
+    "mo_ta": "★ FOUNTAIN-PEN FRIENDLY PAPER THAT WON’T BLEED-THROUGH: We use high quality, acid-free cotton paper that’s best for art, notes or journaling. The 125gsm paper takes pen or heavy pencil beautifully and is thick enough to prevent any bleed through. These womens journals are a non-refillable keepsake to store your memories forever!",
+    "don_gia_nhap": {
+      "$numberDouble": "12.99"
+    },
+    "gia_ban_goc": {
+      "$numberInt": "17"
+    },
+    "gia_ban_hien_tai": {
+      "$numberDouble": "15.4"
+    },
+    "id_loai_sp": {
+      "$oid": "6198b68bc43605f17ec8aa43"
+    },
+    "id_nha_cc": {
+      "$oid": "6198b67cc43605f17ec8aa35"
+    },
+    "mau_sac": ["#66FFFF, #00FF99"],
+    "id_chat_lieu": {
+      "$oid": "6198b1b5c43605f17ec8aa27"
+    },
+    "ti_le_danh_gia": {
+      "$numberInt": "0"
+    },
+    "id_phan_loai": {
+      "$oid": "61a0a817f4c63405f41a5cb5"
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "hinh_anh": "https://i.ibb.co/svTJRmW/images-7.jpg"
+  }
+]
