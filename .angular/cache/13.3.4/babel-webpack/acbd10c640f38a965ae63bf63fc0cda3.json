@@ -1,0 +1,1 @@
+{"ast":null,"code":"export let ProductsUrl = /*#__PURE__*/(() => {\n  class ProductsUrl {}\n\n  ProductsUrl.productsUrl = '/products';\n  return ProductsUrl;\n})();","map":null,"metadata":{},"sourceType":"module"}

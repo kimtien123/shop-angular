@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class User {\n  constructor(authData) {\n    this.email = authData.email;\n    this.firstName = authData.firstName ? authData.firstName : '';\n    this.lastName = authData.lastName ? authData.lastName : '';\n    this.roles = {\n      admin: false\n    };\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
